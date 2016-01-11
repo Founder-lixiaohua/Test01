@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 config2
+config1
+
